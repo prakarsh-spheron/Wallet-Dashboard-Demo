@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Wallet-Dashboard-Demo/static/css/main.4e7ab2db.css",
+    "main.js": "/Wallet-Dashboard-Demo/static/js/main.3a78e737.js",
+    "static/js/787.182bdb92.chunk.js": "/Wallet-Dashboard-Demo/static/js/787.182bdb92.chunk.js",
+    "index.html": "/Wallet-Dashboard-Demo/index.html",
+    "main.4e7ab2db.css.map": "/Wallet-Dashboard-Demo/static/css/main.4e7ab2db.css.map",
+    "main.3a78e737.js.map": "/Wallet-Dashboard-Demo/static/js/main.3a78e737.js.map",
+    "787.182bdb92.chunk.js.map": "/Wallet-Dashboard-Demo/static/js/787.182bdb92.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e7ab2db.css",
+    "static/js/main.3a78e737.js"
+  ]
+}
