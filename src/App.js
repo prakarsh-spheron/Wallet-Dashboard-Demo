@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { TokenBalances } from '@covalenthq-tools/web3-components';
+import { TokenBalances } from '@covalenthq/web3-components';
 import {
   BrowserRouter as Router,
   Link,
