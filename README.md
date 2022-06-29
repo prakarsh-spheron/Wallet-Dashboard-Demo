@@ -20,11 +20,11 @@ This Wallet Dashboard demo is built using the `create-react-app` framework and t
 
 ### Installation
 
-Install with npm: `npm install @covalenthq-tools/web3-components`
+Install with npm: `npm install @covalenthq/web3-components`
 
 or
 
-Install with yarn: `yarn install @covalenthq-tools/web3-components`
+Install with yarn: `yarn install @covalenthq/web3-components`
 
 ### Usage
 
@@ -39,7 +39,7 @@ The Covalent API Key can be obtained at: https://www.covalenthq.com/platform
 
 #### Sample code:
 ```jsx
-import { TokenBalances } from '@covalenthq-tools/web3-components';
+import { TokenBalances } from '@covalenthq/web3-components';
 
 function App() {
   return(

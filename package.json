@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://covalenthq.github.io/Wallet-Dashboard-Demo",
   "dependencies": {
-    "@covalenthq-tools/web3-components": "^0.1.5",
+    "@covalenthq/web3-components": "^0.1.6",
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
     "@testing-library/user-event": "^13.5.0",
